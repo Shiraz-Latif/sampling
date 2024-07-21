@@ -29,6 +29,7 @@
     
     ![Alt text](stratafied_sampling.jpg "Stratfied Sampling")
 
+    ![stratafied_sampling.JPG](./stratafied_sampling.JPG)
 
     Question number 2 in section-A need to be modified. 
     Original strategy: 
