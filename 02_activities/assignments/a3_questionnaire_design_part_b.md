@@ -11,6 +11,10 @@
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
+    Original Survey: 
+    https://github.com/Shiraz-Latif/sampling/blob/questionnaire-a/02_activities/assignments/a2_questionnaire_design_part_a.md 
+    
+    
     The error that we expect here is the sampling error. We can avoid this error by two methods. 
         1. Survey all the company employees. It would be ideal to make the sampling size same as frame size. It will reduce the error i.e. will improve the accuracy of our results but on the other end, it will add up time taken to complete the survey and to compile the survey results. 
         2. 2nd idea that we can implement is to implement an exit survey, i.e. to survey only those employees who are leaving the company, but that will add bias in the results because of the higher number of unsatisfied employees. 
@@ -27,9 +31,8 @@
     New proposal: 
     Instead of stratified random sampling, we would recommend stratified systematic samples. Sampling will be based on multi-factor strata based on department, location, gender whereas the length of stay in the company  will be used for systematic sampline within the strata. The sample from each strata will be taken as 4th members of each strata, based on the length of stay in the company. Hence, the sampling population will comprised of 25% of employees. 
     
-    ![Alt text](stratafied_sampling.jpg "Stratfied Sampling")
-
-    ![stratafied_sampling.JPG](./stratafied_sampling.JPG)
+    https://github.com/Shiraz-Latif/sampling/blob/questionnaire-b/02_activities/assignments/stratafied_sampling.jpg 
+    
 
     Question number 2 in section-A need to be modified. 
     Original strategy: 
